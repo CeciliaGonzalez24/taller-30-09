@@ -1,0 +1,3 @@
+Pelicula1,estreno,1500000,3,M,3,T,1,T
+Pelicula2,liberada,2000000,1,M
+Pelicula3,estreno,500909,2,M,2,T
